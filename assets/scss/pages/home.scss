@@ -1,0 +1,14 @@
+/* comment abstracts */
+@import '../abstracts/variables';
+@import '../abstracts/mixins';
+
+/* comment base */
+@import '../base/reset';
+@import '../base/base';
+
+/* components */
+@import '../components/header';
+@import '../components/loan_left_section';
+@import '../components/loan_right_section';
+
+

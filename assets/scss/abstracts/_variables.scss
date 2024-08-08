@@ -1,0 +1,23 @@
+/* Font */
+$site-font: "Inter", sans-serif;;
+
+/* Colors */
+$primary: #1814f3;
+$grey: #b1b1b1;
+$purple: #718ebf;
+$pink: #fe5c73;
+$black: #232323;
+$white: #fff;
+
+/* Container Width */
+$container-width: 100%;
+
+/* Breakpoints */
+$breakpoints: (
+  "xl": 1300px,
+  "lg": 1200px,
+  "md": 1024px,
+  "sm": 768px,
+  "xs": 599px,
+  "ss": 374px
+);
